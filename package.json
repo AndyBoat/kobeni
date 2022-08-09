@@ -1,0 +1,29 @@
+{
+  "name": "kobeni",
+  "version": "0.0.1",
+  "description": "some compatible component for image and video ",
+  "keyword": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "javascript",
+    "react",
+    "react-component",
+    "webp",
+    "compatible"
+  ],
+  "author": "boatzhang <andyboat1009@gmail.com> (https://github.com/AndyBoat)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "prettier": "^2.7.1"
+  },
+  "sideEffects": false
+}
