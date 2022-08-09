@@ -1,5 +1,7 @@
 # Kobeni
 
+> This name is inspired from one of my favorite anime character
+
 Aim to help those front-end developers who struggle with browser compatibility issues, especially for React user  :)
 
 todo:
